@@ -1,0 +1,1 @@
+let imgChange = (img) => { document.querySelector(".bg_image").style.backgroundImage = `url(${img})`; }
